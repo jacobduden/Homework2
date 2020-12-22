@@ -1,7 +1,10 @@
+.imagebox {
+text-align: center;
+}
 .portfolio-img {
     margin-top: 5px;
-    align-items: auto;
 }
+
 .box {
     
     width: 100%;
