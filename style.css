@@ -1,3 +1,7 @@
+.jumbotron {
+    margin-top: 12%;
+}
+
 .lead { 
     margin-left: 25px;
     margin-right: 25px;
@@ -9,6 +13,7 @@
     height: 250px;
     width: 250px;
 }
+/* positioning for the footer */
 .box {
     
     width: 100%;
@@ -23,8 +28,4 @@
 .footer-text {
     margin-top: .5%;
     color: rgb(94, 94, 94);
-}
-
-.jumbotron {
-    margin-top: 12%;
 }

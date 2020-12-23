@@ -1,10 +1,14 @@
+.jumbotron {
+    margin-top: 5.5%;
+}
+
 .imagebox {
 text-align: center;
 }
 .portfolio-img {
     margin-top: 5px;
 }
-
+/* positioning for the footer */
 .box {
     
     width: 100%;
@@ -19,8 +23,4 @@ text-align: center;
 .footer-text {
     margin-top: .5%;
     color: rgb(94, 94, 94);
-}
-
-.jumbotron {
-    margin-top: 5.5%;
 }

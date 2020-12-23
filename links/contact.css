@@ -1,9 +1,11 @@
 .container {
     text-align: center;
 }
-.col-form-label {
-margin-left: 30px;
+
+.jumbotron {
+    margin-top: 20%;
 }
+/* positioning for the footer */
 .box {
     
     width: 100%;
@@ -18,8 +20,4 @@ margin-left: 30px;
 .footer-text {
     margin-top: .5%;
     color: rgb(94, 94, 94);
-}
-
-.jumbotron {
-    margin-top: 20%;
 }
